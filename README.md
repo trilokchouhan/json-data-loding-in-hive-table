@@ -1,0 +1,1 @@
+# json-data-loding-in-hive-table
